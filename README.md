@@ -26,6 +26,3 @@ It lets you create, view, and manage your todos with a clean interface — no ma
 | **Language**  | Python 3.10+ |
 
 ---
-
-## 📂 Project Structure
-
